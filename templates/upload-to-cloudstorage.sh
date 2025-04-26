@@ -1,6 +1,6 @@
 #!/bin/sh
 #start-params
-#<b>Upload directory to rclone remote</b><br/>
+#<b>Upload directory to cloud storage (via rclone remote).</b><br/>
 #<br/><b>Parameters</b><br/>
 #<b>#1</b> - Source Directory<br/>
 #<b>#2</b> - Target Directory in rclone remote (e.g., remote:target/dir)
